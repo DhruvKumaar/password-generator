@@ -1,4 +1,4 @@
-# Password Generator Tool
+#  Project 7: Password Generator Tool
 
 ## Overview
 
